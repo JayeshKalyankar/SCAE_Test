@@ -246,7 +246,6 @@ public class register3 {
 			 * driver.findElement(By.xpath("//button[contains(text(),'Yes')]"));
 			 * yesButton.click();
 			 *///
-	
 
 		}
 	
