@@ -238,6 +238,14 @@ public class register3 {
 			//Click Yes Submit
 			WebElement yesButton = driver.findElement(By.xpath("//button[contains(text(),'Yes')]"));
 			yesButton.click();
+			
+			
+			
+			/*
+			 * //Click Yes Submit WebElement yesButton =
+			 * driver.findElement(By.xpath("//button[contains(text(),'Yes')]"));
+			 * yesButton.click();
+			 */
 	
 
 		}
